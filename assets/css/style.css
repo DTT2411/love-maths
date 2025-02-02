@@ -50,6 +50,11 @@ body {
     font-size: 1.2rem;
 }
 
+/* Adds margin to counters to improve spacing from text */
+.score-area span {
+    margin-left: 5px;
+}
+
 .controls-area {
     width: 85%;
     margin: 30px auto;
